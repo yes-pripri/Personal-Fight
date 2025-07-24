@@ -24,9 +24,9 @@ export function Hero() {
             <div className="space-y-6">
               <h1 className="text-5xl md:text-6xl lg: 7xl font-bold leading-10"> FIND YOUR STRENGTH
               </h1>  
-              <p className="lg:text-lg">Lorem ipsum dolor sit amet consectetur adipisicing elit. Placeat accusamus 
-              dignissimos esse molestias beatae voluptates ipsam nemo numquam, maiores deserunt 
-              commodi aperiam id velit doloremque sunt illo quas non quibusdam?
+              <p className="lg:text-lg">O treino de Personal Fight vai muito além da luta, treinamos
+                disciplina, autoconfiança e equilíbrio, transformando não só o corpo, mas também
+                 a mente e a vida de quem pratica.
               </p>
 
                 <a 

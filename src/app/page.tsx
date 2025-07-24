@@ -1,12 +1,12 @@
 import {Hero} from './_components/hero'
-
-console.log('Hero é:', Hero)
+import { WhyChooseUs} from './_components/benefits'
 
 export default function Home() {
   return (
     <main>
         <div>
           <Hero />
+          <WhyChooseUs />
         </div>
     </main>
   )
