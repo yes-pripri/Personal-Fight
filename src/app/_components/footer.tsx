@@ -1,5 +1,5 @@
-
-import {MapPin, Facebook, Instagram} from 'lucide-react'
+import boxeImg from '../../../public/boxe.png'
+import {MapPin, Facebook, Instagram, Linkedin} from 'lucide-react'
 
 export function Footer() {
     return(
@@ -15,14 +15,18 @@ export function Footer() {
 
       <footer className="bg-zinc-950 text-gray-400 py-6 text-center">
         <div className="flex justify-center gap-6 mb-4">
-          <a href="#" className="hover:text-white">
+          <a href="#" className="hover:text-indigo-600">
             <Facebook className="w-6 h-6" />
           </a>
-          <a href="#" className="hover:text-white">
+          <a href="#" className="hover:text-indigo-600">
             <Instagram className="w-6 h-6" />
           </a>
+          <a href="#" className='hover:text-indigo-600'>
+            <Linkedin className='w-6- h-6' />
+          </a>
         </div>
-        <p className="text-sm">&copy; {new Date().getFullYear()} Personal Fight. Todos os direitos reservados.</p>
+        <p className="text-sm">&copy; {new Date().getFullYear()} Personal Fight. Todos os 
+          direitos reservados.</p>
       </footer>
     </div>
     )
