@@ -13,7 +13,7 @@ export function Footer() {
         </div>
       </section>
 
-      <footer className="bg-zinc-950 text-gray-400 py-6 text-center">
+      <footer className="bg-black text-gray-400 py-6 text-center">
         <div className="flex justify-center gap-6 mb-4">
           <a href="#" className="hover:text-indigo-600">
             <Facebook className="w-6 h-6" />
