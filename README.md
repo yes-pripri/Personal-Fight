@@ -7,7 +7,13 @@
 
 ---
 
-## ✨ Features
+## ✨ Preview
+
+![Landing Page Screenshot](./public/preview.png)
+
+---
+
+## 🎯 Features
 - ✅ Fully responsive design for desktop and mobile  
 - ✅ Smooth scroll animations with [AOS](https://michalsnik.github.io/aos/)  
 - ✅ Modular and reusable components  
