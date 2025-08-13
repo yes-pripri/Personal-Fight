@@ -14,12 +14,12 @@
 ---
 
 ## 🎯 Features
-- ✅ Fully responsive design for desktop and mobile  
-- ✅ Smooth scroll animations with [AOS](https://michalsnik.github.io/aos/)  
-- ✅ Modular and reusable components  
-- ✅ Integration with external links (e.g., WhatsApp)  
-- ✅ Built with TypeScript for type safety and scalability  
-- ✅ Easy to maintain and extend  
+-  Fully responsive design for desktop and mobile  
+-  Smooth scroll animations with [AOS](https://michalsnik.github.io/aos/)  
+-  Modular and reusable components  
+-  Integration with external links (e.g., WhatsApp)  
+-  Built with TypeScript for type safety and scalability  
+-  Easy to maintain and extend  
 
 ---
 
