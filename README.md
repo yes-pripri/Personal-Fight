@@ -1,36 +1,76 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🥊 Personal Fight
 
-## Getting Started
 
-First, run the development server:
+[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=flat&logo=vercel)](https://personal-fight.vercel.app)
+[![Next.js](https://img.shields.io/badge/Framework-Next.js-black?style=flat&logo=next.js)]
+[![React](https://img.shields.io/badge/Library-React-blue?style=flat&logo=react)]
+[![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue?style=flat&logo=typescript)]
+[![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind%20CSS-blue?style=flat&logo=tailwind-css)]
+
+**Personal Fight** is a modern and responsive website built with **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**, designed to showcase services, portfolio, or personal branding in an elegant and interactive way.  
+
+🔗 **Live Demo:** [https://personal-fight.vercel.app](https://personal-fight.vercel.app)
+
+---
+
+## ✨ Features
+- ✅ Fully responsive design for desktop and mobile  
+- ✅ Smooth scroll animations with [AOS](https://michalsnik.github.io/aos/)  
+- ✅ Modular and reusable components  
+- ✅ Integration with external links (e.g., WhatsApp)  
+- ✅ Built with TypeScript for type safety and scalability  
+- ✅ Easy to maintain and extend  
+
+---
+
+## 🛠 Technologies
+| Technology | Purpose |
+|------------|---------|
+| [Next.js](https://nextjs.org/) | React framework for modern web apps |
+| [React](https://reactjs.org/) | UI library for building interactive interfaces |
+| [TypeScript](https://www.typescriptlang.org/) | Adds type safety to JavaScript |
+| [Tailwind CSS](https://tailwindcss.com/) | Utility-first CSS framework |
+| [Vercel](https://vercel.com/) | Deployment and hosting |
+| [AOS](https://michalsnik.github.io/aos/) | Scroll animations library |
+
+---
+
+## 💻 Getting Started
+Clone the repository and run locally:
 
 ```bash
-npm run dev
+# Clone the repository
+git clone https://github.com/your-username/personal-fight.git
+
+# Go to the project folder
+cd personal-fight
+
+# Install dependencies
+npm install
 # or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+yarn
+
+# Run the development server
+
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Open your browser at http://localhost:3000 to see the site.
 
-## Learn More
+## ⚡ Deployment
 
-To learn more about Next.js, take a look at the following resources:
+The project is hosted on Vercel with continuous deployment.
+Every commit to the main branch automatically triggers a new deployment.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🤝 Contributing
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-## Deploy on Vercel
+## 📄 License
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This project is licensed under the MIT License.
+Feel free to use and modify it as you wish.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+⭐️ If you liked it, don’t forget to give it a star!
