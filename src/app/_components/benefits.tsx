@@ -35,7 +35,9 @@ export function WhyChooseUs() {
         data-aos-duration="800"
         >
           POR QUE NOS ESCOLHER?</h2>
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8
+        transition-transform hover:scale-105 hover:shadow-xl duration-300"
+        >
           {benefits.map((benefit, index) => (
             <div
               key={index}

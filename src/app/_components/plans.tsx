@@ -37,7 +37,19 @@ export function Plans() {
                 <li>Técnicas de ataque e defesa</li>
               </ul>
               <p className="text-lg font-bold text-indigo-600">R$ 239/mês</p>
+            </div>
+            <div>
+                <a 
+                  target='_blank'
+                  href={`https://wa.me/5548991471311?text=Olá! Gostaria de agendar minha aula experimental.`}
+                  className=" bg-red-500 px-5 py-2 hover:bg-red-600 rounded-md font-semibold flex items-center
+                  justify-center w-fit transition-transform duration-300"
+                  data-aos="zoom-in-down"
 
+                  >
+              
+                    COMECE AGORA 
+                </a>
             </div>
           </div>
         </div>

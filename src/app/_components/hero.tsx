@@ -5,7 +5,6 @@ import Image from 'next/image'
 export function Hero() {
   return(
       <section className="bg-black text-white relative overflow-hidden">
-        
         <div>
           <Image
              src={girlImg}
@@ -14,13 +13,13 @@ export function Hero() {
              sizes='100vw'
              priority
              className='object-cover opacity-30 lg:hidden'
- 
-          />
+// 
+          /> 
         </div>
       
         <div className="container mx-auto pt-16 pb-16 md:pb-0 px-4 relative">
 
-          <article className="grid grid-cols-1 lg:grid-cols-2 gap-8 relative ">
+          <article className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center relative ">
             <div className="space-y-6">
               <h1 
               className="text-5xl md:text-6xl lg: 7xl font-bold leading-10"
@@ -34,26 +33,18 @@ export function Hero() {
                  a mente e a vida de quem pratica.
               </p>
               <div data-aos="zoom-in"></div>
-                <a 
-                  href="#"
-                  className="bg-red-500 px-5 py-2 rounded-md font-semibold flex items-center
-                  justify-center w-fit transition-transform duration-300 hover:scale-110"
-                  data-aos="zoom-in-down"
-
-                  >
-              
-                    START NOW 
-                </a>
-
-              <div className="mt-8">
-                <p className="text-3xl mb-8">
-                  <b className="bg-gray-400 text-gray-700 px-2 py-1 rounded-md">Primeira aula grátis!
-                  </b>
-                </p>
-              </div>
+                <div className="mt-8">
+                  <p className="text-2xl mb-8 text-center md:text-left">
+                    <b className="bg-transparent text-red-400 px-0.5 py-0.5 
+                    rounded-md sm:px-2 sm:py-1 inline-block">
+                    Convide um amigo e garantam juntos a primeira aula gratuita!
+                   </b>
+                  </p>
+            </div>
             </div>
 
-            <div className="hidden md:block h-full relative">
+            <div className="hidden md:block h-full relative"
+              data-aos="fade-left">
               <Image
                 src={girlImg}
                 alt="garota"
