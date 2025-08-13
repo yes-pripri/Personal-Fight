@@ -1,12 +1,6 @@
 # 🥊 Personal Fight
 
 
-[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?style=flat&logo=vercel)](https://personal-fight.vercel.app)
-[![Next.js](https://img.shields.io/badge/Framework-Next.js-black?style=flat&logo=next.js)]
-[![React](https://img.shields.io/badge/Library-React-blue?style=flat&logo=react)]
-[![TypeScript](https://img.shields.io/badge/Language-TypeScript-blue?style=flat&logo=typescript)]
-[![Tailwind CSS](https://img.shields.io/badge/Styling-Tailwind%20CSS-blue?style=flat&logo=tailwind-css)]
-
 **Personal Fight** is a modern and responsive website built with **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**, designed to showcase services, portfolio, or personal branding in an elegant and interactive way.  
 
 🔗 **Live Demo:** [https://personal-fight.vercel.app](https://personal-fight.vercel.app)
