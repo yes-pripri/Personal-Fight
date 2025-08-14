@@ -22,7 +22,7 @@ export function Hero() {
           <article className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center relative ">
             <div className="space-y-6">
               <h1 
-              className="text-5xl md:text-6xl lg: 7xl font-bold leading-10"
+              className="text-5xl md:text-6xl lg: 7xl font-bold leading-tight"
               data-aos="fade-right"
               > 
               DESCUBRA SUA FORÇA!
