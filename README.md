@@ -39,18 +39,20 @@
 Clone the repository and run locally:
 
 ```bash
-# Clone the repository
+
+# 1. Clone the repository
 git clone https://github.com/your-username/personal-fight.git
 
-# Go to the project folder
 cd personal-fight
 
-# Install dependencies
+# 2. Install dependencies
 npm install
-# or
-yarn
 
-# Run the development server
+# 3. Run the development server
+npm run dev
+
+# The app will be available at:
+# http://localhost:3000
 
 ```
 
