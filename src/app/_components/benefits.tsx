@@ -41,7 +41,7 @@ export function WhyChooseUs() {
           {benefits.map((benefit, index) => (
             <div
               key={index}
-              className="bg-black rounded-2xl p-6 shadow-lg hover:shadow-red-500/30
+              className="bg-indigo-950 rounded-2xl p-6 shadow-lg hover:shadow-red-500/30
                transition-shadow"
             >
               <div className="mb-4 ">{benefit.icon}</div>

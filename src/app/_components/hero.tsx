@@ -38,6 +38,7 @@ export function Hero() {
                     <b className="bg-transparent text-red-400 px-0.5 py-0.5 
                     rounded-md sm:px-2 sm:py-1 inline-block">
                     Convide um amigo e garantam juntos a primeira aula gratuita!
+
                    </b>
                   </p>
             </div>

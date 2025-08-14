@@ -14,7 +14,7 @@ export function Plans() {
             
             ESCOLHA SUA MODALIDADE</h2>
           <div className="grid md:grid-cols-2 gap-10">
-            <div className="bg-gray-950 rounded-xl p-6"
+            <div className="bg-gray-900 rounded-xl p-6"
             data-aos="flip-left"
             >
               <h3 className="text-2xl font-semibold mb-2">🥊 Boxe</h3>
@@ -26,7 +26,7 @@ export function Plans() {
               </ul>
               <p className="text-lg font-bold text-indigo-600">R$ 199/mês</p>
             </div>
-            <div className="bg-gray-950 rounded-xl p-6"
+            <div className="bg-gray-900 rounded-xl p-6"
             data-aos="flip-right"
             >
               <h3 className="text-2xl font-semibold mb-2"> 🇹🇭 Muay Thai</h3>
